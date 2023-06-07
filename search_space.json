@@ -1,0 +1,4 @@
+{
+    "dropout":{"_type":"uniform","_value":[0.3, 0.7]},
+    "lr":{"_type":"choice","_value":[0.003, 0.004, 0.005, 0.006]},
+}
