@@ -1,3 +1,4 @@
+# In layer.py line 54, I have added e = e / math.sqrt(1433) to make GAT faster and better.
 # Pytorch Graph Attention Network
 
 This is a pytorch implementation of the Graph Attention Network (GAT)
